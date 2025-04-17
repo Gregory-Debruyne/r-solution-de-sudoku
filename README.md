@@ -1,2 +1,2 @@
-# r-solution-de-sudoku
+# resolution-de-sudoku
 projet de réseau informatique Grégory et Clément
