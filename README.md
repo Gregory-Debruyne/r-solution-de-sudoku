@@ -1,5 +1,3 @@
-# projet de système intelligent Grégory et Clément:resolution-de-sudoku
-
 L'objectif est de résoudre un sudoku à partir d'une image d'un sudoku non remplis récuperer sur notre caméra logitech HD 720p
 
 ## Mise en fonction de la caméra
