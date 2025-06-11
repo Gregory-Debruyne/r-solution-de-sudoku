@@ -12,4 +12,4 @@ Lorsque l'on prend une image, nous devons détecter les grilles de notre sudokun
 
 ## Résolution du sudoku
 
-Afin de résoudre notre sudoku, nous réaliserons un programme qui remplis nos case vide en un ensemble de chiffre et donc un sudoku compléter
+Afin de résoudre notre sudoku, nous réaliserons un programme résoud le sudoku
